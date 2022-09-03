@@ -1,2 +1,2 @@
-# EDA-1
-My First Day
+# EDA CAPSTON 1 PROJECT
+# First Day
